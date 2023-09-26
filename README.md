@@ -11,3 +11,7 @@ You can do few operations like:
 1. Send money to second user, it can't be higher than what you own on your account
 2. You can get a loan from a bank which can't be higher than 10% of your biggest deposit
 3. And you can close your account when you input your login and pin. 
+
+
+
+This project was made as a part of JS course so CSS and HTML was already provided. The main point of this project was to focus how to work with arrays and implement methods 
